@@ -1,0 +1,6 @@
+G:\GitHub için\calculator\calculator\bin\Debug\calculator.exe.config
+G:\GitHub için\calculator\calculator\bin\Debug\calculator.exe
+G:\GitHub için\calculator\calculator\bin\Debug\calculator.pdb
+G:\GitHub için\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+G:\GitHub için\calculator\calculator\obj\Debug\calculator.exe
+G:\GitHub için\calculator\calculator\obj\Debug\calculator.pdb
